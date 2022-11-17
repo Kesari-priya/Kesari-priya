@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning Python and R to enhance my skills for Data Analysis.
 - 💞️ I’m looking to collaborate on on data cleaning and analysis projects.
 - 📫 How to reach me ...
-- 
-email: kesaranipriya2015@gmail.com
+ email: kesaranipriya2015@gmail.com
 
 
 
