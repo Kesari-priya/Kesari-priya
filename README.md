@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kesarwani_Priya
 - 👀 I’m hoping to blend my new found Data Analyst skills in extracting data from Databricks, Data Cleaning, Preparation and Analysis using Python, SQL and visualizing that data using BI tool.
-- 🌱 I’m currently learning Python and R to enhance my skills for Data Analysis.
+- 🌱 I’m currently learning Excel, Python and R to enhance my skills for Data Analysis.
 - 💞️ I’m looking to collaborate on data cleaning and analysis projects.
 - 📫 How to reach me ...
  email: kesarwanipriya2015@gmail.com
