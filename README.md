@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Excel, Python and R to enhance my skills for Data Analysis.
 - 💞️ I’m looking to collaborate on data cleaning and analysis projects.
 - 📫 How to reach me ...
- email: kesarwanipriya2015@gmail.com
-
+ email: priyakesarwani2015@gmail.com
 
 
 <!---
